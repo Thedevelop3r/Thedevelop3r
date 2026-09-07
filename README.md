@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bilal Arain (@Thedevelop3r)
+# 👋 Hi, I'm Bilal Amjad (@Thedevelop3r)
 
 ## 🎯 About Me
 I'm a passionate full-stack developer with expertise in modern web technologies. I specialize in building scalable, user-friendly applications with a focus on clean code and best practices.
