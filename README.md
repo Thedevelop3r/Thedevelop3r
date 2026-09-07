@@ -1,4 +1,48 @@
-- 👋 Hi, I’m @Thedevelop3r
-- 👀 I’m interested in front-end development with REACT, NextJs, html, css, material-ui and back-end website/server development in ES6 || JavaScript-Node-Express | MongooseDB | Atlas-Mongoose | Firebase - RESTFULL-API,s
-- 💞️ I’m looking to collaborate on server-side development with database
-- 📫 Reach me at bilalarain444@gmail.com
+# 👋 Hi, I'm Bilal Arain (@Thedevelop3r)
+
+## 🎯 About Me
+I'm a passionate full-stack developer with expertise in modern web technologies. I specialize in building scalable, user-friendly applications with a focus on clean code and best practices.
+
+## 💻 Tech Stack
+
+### Frontend
+- **Languages**: HTML5, CSS3, JavaScript (ES6+)
+- **Frameworks & Libraries**: React, Next.js
+- **UI Libraries**: Material-UI, Tailwind CSS
+- **Tools**: Webpack, Vite, Redux
+
+### Backend
+- **Runtime**: Node.js
+- **Framework**: Express.js
+- **Databases**: MongoDB, Mongoose ODM, Atlas
+- **Languages**: JavaScript (ES6+)
+
+### Other Skills
+- RESTful API Development
+- Database Design & Optimization
+- Version Control (Git & GitHub)
+- Responsive Web Design
+
+## 👀 Interests
+- Front-end development with modern frameworks
+- Server-side development and architecture
+- Database design and management
+- Building full-stack web applications
+
+## 💞️ Collaboration
+I'm actively looking to collaborate on:
+- Server-side development projects
+- Database architecture and optimization
+- Full-stack applications
+- Open-source contributions
+
+## 📊 GitHub Stats
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thedevelop3r&show_icons=true&theme=dark)](https://github.com/Thedevelop3r)
+
+## 📫 Get in Touch
+- **Email**: bilalarain444@gmail.com
+- **GitHub**: [@Thedevelop3r](https://github.com/Thedevelop3r)
+
+---
+
+*Let's build something amazing together!* 🚀
