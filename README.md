@@ -12,10 +12,10 @@ I'm a passionate full-stack developer with expertise in modern web technologies.
 - **Tools**: Webpack, Vite, Redux
 
 ### Backend
-- **Runtime**: Node.js
-- **Framework**: Express.js
-- **Databases**: MongoDB, Mongoose ODM, Atlas
-- **Languages**: JavaScript (ES6+)
+- **Runtime**: Node.js, Rust
+- **Framework**: Express.js, Axum, Tokio
+- **Databases**: MongoDB, Mongoose ODM, Atlas, Postgresql, RustFs
+- **Languages**: JavaScript (ES6+), Typescript, C, C++, Rust
 
 ### Other Skills
 - RESTful API Development
