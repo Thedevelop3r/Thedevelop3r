@@ -6,7 +6,7 @@ I'm a passionate full-stack developer with expertise in modern web technologies.
 ## 💻 Tech Stack
 
 ### Frontend
-- **Languages**: HTML5, CSS3, JavaScript (ES6+)
+- **Languages**: JavaScript (ES6+), Typescript, C, C++, Rust
 - **Frameworks & Libraries**: React, Next.js
 - **UI Libraries**: Material-UI, Tailwind CSS
 - **Tools**: Webpack, Vite, Redux
